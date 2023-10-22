@@ -8,6 +8,6 @@ import './index.css'
 
 createRoot(document.getElementById('root') as HTMLElement).render(
   <StrictMode>
-    <Dune />
+    <App />
   </StrictMode>
 )
