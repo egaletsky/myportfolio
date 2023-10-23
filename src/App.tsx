@@ -1,10 +1,11 @@
 import { Header } from '@/layout/header/Header'
-import styled from 'styled-components'
+import { Main } from '@/layout/sections/main/Main'
 
 export function App() {
   return (
     <div>
       <Header />
+      <Main />
     </div>
   )
 }
