@@ -16,8 +16,8 @@ export const Main = () => {
   )
 }
 
-const StyledMain = styled.div`
-  min-height: 100vh;
+const StyledMain = styled.section`
+  //min-height: 100vh;
   background-color: #daf8c1;
 `
 
